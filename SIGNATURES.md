@@ -15,4 +15,4 @@ By adding your name to this list via a Pull Request, you endorse the open letter
 | # | Name / Handle | Role / Organization | GitHub / Profile | Date (UTC) |
 |---|---|---|---|---|
 | 1 | *Maintainer* | Core Contributor / Developer | [@Maintainer](https://github.com/) | 2026-08-14 |
-| 2 |  |  |  |  |
+| 2 | luciodaou | Occasional Developer | @luciodaou | 2026-08-14 |
